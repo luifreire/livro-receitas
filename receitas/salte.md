@@ -12,13 +12,11 @@ _italico_
 
 ## well
 
-- uuuuu
-- i'm learning so much
-- my fingertips can do anything,,,
+- list of tasks
 
 
 
-**i'm so cool**
+**cool**
 
 > cute
 >
